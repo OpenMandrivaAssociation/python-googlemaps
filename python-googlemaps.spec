@@ -1,6 +1,6 @@
 Name:		python-googlemaps
 Version:	4.10.0
-Release:	1
+Release:	2
 Summary:	Python client library for Google Maps Platform
 License:	Apache-2.0
 Group:		Development/Python
